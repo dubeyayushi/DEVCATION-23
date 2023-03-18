@@ -2,22 +2,27 @@
 NIRODHAH (निरोधः)
 
 PROBLEM STATEMENT: 
+
 Products being developed have to solve one or more of the United Nations 17 Sustainable Development Goals.
 
 PROJECT THEME: 
+
 To celebrate India’s G20 Presidency, the theme of the project is based upon the third sustainable development goal which is GOOD HEALTH AND WELL BEING.
 निरोधः is designed to help users identify and manage the factors that contribute to their stress levels, with the ultimate goal of achieving a state of calm and mental stillness.
 
 PROJECT DESCRIPTION: 
+
 The project leverages machine learning algorithms to analyze user data and generate accurate stress level predictions.
 It predicts the stress levels of the user and provides actionable insights
 The project has features for tracking progress and setting goals.
 The ML model continuously learns and adapts to the user's data, making the stress level predictions more accurate over time.
 
 DATASET USED:
+
 The dataset used in building the model is "Wellbeing and Lifestyle" dataset available on Kaggle.com
 
 DATA FEATURES:
+
 TIMESTAMP: Date when survey was completed
 
 FRUITS_VEGGIES: How many fruits or vegetable do you eat everyday?
@@ -67,10 +72,15 @@ GENDER: Male or Female
 WORK_LIFE_BALANCE: Score calculated by AH.COM algorithm and reported to user in the first report.
 
 TARGET VARIABLE:
+
 DAILY_STRESS is the target variable. It contains 6 classes from range 0 to 5 indicating the level and severity of stress of the user.
 
 TEAM DETAILS:
+
 Team Name: Ode to Code
+
 Team Members:
+
 1. Advika Thakur- 1st Year, B.Tech AI-ML, IGDTUW
+
 2. Ayushi Dubey- 1st Year, B.Tech AI-ML, IGDTUW 
